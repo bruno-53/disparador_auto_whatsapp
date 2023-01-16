@@ -1,9 +1,9 @@
-# DISPARADOR DE MENSAGENS WHATSAPP :iphone: :heavy_check_mark: :snake:
+# DISPARADOR DE MENSAGENS WHATSAPP :calling: :speech_balloon: :repeat: 
 ##### [!!!] Envie mensagens automáticamente para uma lista de nomes e números de whatsapp [!!!]
 
 
 ## O QUE É?
-> Dado uma lista o programa faz o disparo autoático das mensagens pelo whatsapp, feito em python 3 :green_heart:
+> Dado uma lista o programa faz o disparo autoático das mensagens pelo whatsapp, feito em python 3 :green_heart::snake:
 
 ### COMO USAR?
 > Baixe o repositorio.
